@@ -2,3 +2,5 @@ Cold and dry, but everything is my favourite colour!
 The wto moons may be a problem for Wolfram.
 The mummy will appreciate the lack of humidity
 unless it rains
+
+See phobos.txt for moon info.
